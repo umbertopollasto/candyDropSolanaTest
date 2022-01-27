@@ -1,0 +1,19 @@
+{
+  "name": "LUFFY2",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DqR6fA7kNFuFZmB3qJEW4JmdPs1DPV3CScHpqnYfLxri",
+        "share": 100
+      }
+    ]
+  }
+}
